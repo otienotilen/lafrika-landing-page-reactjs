@@ -15,7 +15,7 @@ const items = [
     key: '1',
     icon: <i><img src={a} alt="" className="img" /></i>,
     title: 'Social media advertising',
-    content: 'We craft engaging fecebook and instagram marketing campains.',
+    content: 'We craft engaging fecebook and instagram marketing campaigns.',
   },
   {
     key: '2',
@@ -79,7 +79,7 @@ const ProductList = () => {
           As your sales partner, we focus solely on maximizing
           ROI. We use relevant platforms to target your
           customer on daily basis.
-          Offering  a reange of digital services all of which are 
+          Offering a range of digital services all of which are 
           focused on growing your business.
         </p>
       </div>

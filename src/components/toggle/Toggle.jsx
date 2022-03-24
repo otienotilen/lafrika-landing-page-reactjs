@@ -27,7 +27,7 @@ const [toggleMenu, setToggleMenu] = React.useState(false);
   
   return (
     <div className="container">
-
+     
       <h4 >Lafrika</h4>
       <div className="mobileHidden">
       <Anchor targetOffset="80">

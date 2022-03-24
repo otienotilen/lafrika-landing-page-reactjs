@@ -18,7 +18,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Us</h1>
         <p className="a-sub">
-          Lafrika media is a marketing agency that is aimed at helping business
+          Lafrika media is a marketing agency that is aimed at helping businesses
           achieve dominance in their industry which means more revenue, profits
           and ability to scale.
         </p>

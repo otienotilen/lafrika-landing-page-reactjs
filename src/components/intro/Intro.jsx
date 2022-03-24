@@ -18,9 +18,9 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            Growing a business is hard. We make it a lot easer for you by
+            Growing a business is hard. We make it a lot easier for you by
             driving results through proven world-class strategies that gurantee
-            massive return of investments.
+            massive return on investments.
           </p>
         </div>
         <svg
